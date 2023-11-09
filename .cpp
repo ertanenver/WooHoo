@@ -2,6 +2,6 @@
 using namespace std;
 
 int main() {
-	// Zap
+	// WooHoo
 	return 0;
 }
